@@ -1,2 +1,2 @@
 # demo
-This a demo repository for learning github
+This a demo repository for learning github.
